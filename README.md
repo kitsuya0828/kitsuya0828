@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+> [!IMPORTANT]
+> This account is no longer active.
+> Please visit my current profile at [@kitsuyaazuma](https://github.com/kitsuyaazuma) for the latest updates and repositories.
+
 <!--
 **kitsuya0828/kitsuya0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
